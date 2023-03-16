@@ -356,7 +356,13 @@ Immediate goals:
 
 ## pyOpenSci.org
 
-> pyOpenSci builds diverse community around scientific open source software through open peer review, training and mentorship
+<div class="center">
+
+https://www.pyopensci.org/get-involved-contact.html
+
+</div>
+
+> pyOpenSci builds diverse community around scientific open source software through open peer review, training, and mentorship
 
 **Open peer review of Python scientific software provides:**
 

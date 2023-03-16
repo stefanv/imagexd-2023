@@ -1,0 +1,5 @@
+rsync -av --progress . gh-pages --exclude gh-pages --exclude .git --copy-links
+cd gh-pages
+git add --all
+git commit -m "Snapshot"
+git push origin gh-pages:gh-pages

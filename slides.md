@@ -369,7 +369,7 @@ https://www.pyopensci.org/get-involved-contact.html
 - Increase discoverability of high quality, maintained tools
 - A supportive community for maintainers
 - Guidance on packaging best practices
-- Credit for developing software
+- Credit for developing software (via traditional mechanisms)
 
 **Python packaging guidance**
 

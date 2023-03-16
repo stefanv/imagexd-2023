@@ -190,7 +190,7 @@ https://www.ethanrosenthal.com/2020/08/25/optimal-peanut-butter-and-banana-sandw
 - More consistent API, including `channel_axis` for indicating multi-channel images
 - New build system: Meson
 
----
+...
 
 ## skimage 2.0
 

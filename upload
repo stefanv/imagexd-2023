@@ -1,4 +1,4 @@
-if [[ $CWD == "gh-pages" ]]; then
+if [[ $PWD == "gh-pages" ]]; then
   echo "Don't run this from within the gh-pages folder"
   exit 1
 fi
